@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<module name="app_trade" version="1.33">
+		<item type="1" value="http://kepler.jd.com/trade/view" uri="html/tradeViewStatic.html"/>
+		<item type="2" value="static/tradeViewStatic.html"/>
+		<item type="2" value="static/c/fd/base/css/base/base.s.min.css"/>
+		<item type="2" value="static/c/fd/base/css/order/buy.s.min.css"/>
+		<item type="2" value="static/c/trade/misc/js/ajax.js"/>
+		<item type="2" value="static/c/trade/misc/js/cookie.js"/>
+		<item type="2" value="static/c/trade/misc/js/formatJson.js"/>
+		<item type="2" value="static/c/trade/misc/js/loadJs.js"/>
+		<item type="2" value="static/c/trade/misc/js/md5.js"/>
+		<item type="2" value="static/c/trade/misc/js/qrcode.js"/>
+		<item type="2" value="static/c/trade/misc/js/report.js"/>
+		<item type="2" value="static/c/trade/misc/js/zepto.js"/>
+		<item type="2" value="static/c/trade/misc/js/url.js"/>
+		<item type="2" value="static/c/js/common/app/jsapi.js"/>
+		<item type="2" value="static/c/js/common/dest/wg.mobilereport.min.js"/>
+		<item type="2" value="static/c/js/common/dest/wg.mwfoot.min.js"/>
+		<item type="2" value="static/c/js/common/dest/wg.report.min.js"/>
+		<item type="2" value="static/c/js/common/dest/wg.storage.min.js"/>
+		<item type="2" value="static/c/trade/misc/js/payutil.js"/>
+		<item type="2" value="static/c/trade/misc/js/pay.js"/>
+		<item type="2" value="static/c/trade/misc/js/date.js"/>
+		<item type="2" value="static/c/trade/misc/js/qqAddr.js"/>
+		<item type="2" value="static/c/trade/misc/js/ui.js"/>
+		<item type="2" value="static/c/trade/misc/js/wq.confirm1.js"/>
+		<item type="2" value="static/c/trade/misc/js/tpl_wq.confirm1.js"/>
+		<item type="2" value="static/c/trade/misc/js/wg.countRd.js"/>
+		<item type="2" value="static/c/trade/misc/js/wq.jdaddress.js"/>
+		<item type="2" value="static/c/trade/misc/js/wq.asset.js"/>
+		<item type="2" value="static/c/trade/misc/js/tpl_wq.asset.js"/>
+		<item type="2" value="static/c/trade/misc/js/tpl_wq.jdaddress.js"/>
+		<item type="2" value="static/js/monitor.js"/>
+	</module>
+</root>
